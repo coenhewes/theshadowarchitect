@@ -6,9 +6,16 @@ export default function Contact() {
           <h2 className="text-5xl md:text-6xl font-serif text-shadow-gold mb-6">
             Begin Your Consultation
           </h2>
-          <p className="text-xl text-gray-300 max-w-2xl mx-auto">
+          <p className="text-xl text-gray-300 max-w-2xl mx-auto mb-8">
             Shadow Architect Consulting operates exclusively through private consultation. Every engagement is custom-designed for maximum psychological impact.
           </p>
+          <div className="bg-shadow-slate p-6 max-w-2xl mx-auto border border-shadow-gold">
+            <p className="text-shadow-gold-light font-semibold mb-2">FREE RESOURCE</p>
+            <p className="text-gray-300 text-sm">
+              Complete the form below to receive our <span className="text-shadow-gold">"Seven Dominion Pillars Executive Summary"</span> — 
+              a comprehensive 15-page framework overview delivered immediately upon submission.
+            </p>
+          </div>
         </div>
         
         <div className="bg-shadow-slate p-12 border border-gray-800">
