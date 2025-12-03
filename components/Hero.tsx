@@ -25,7 +25,7 @@ export default function Hero() {
         {/* Quote */}
         <div className="max-w-2xl mx-auto mb-12">
           <blockquote className="text-lg md:text-xl text-shadow-gold-light italic font-serif border-l-2 border-shadow-gold pl-6 py-4">
-            "The supreme excellence consists of breaking the enemy's resistance without fighting."
+            &ldquo;The supreme excellence consists of breaking the enemy&apos;s resistance without fighting.&rdquo;
           </blockquote>
           <p className="text-sm text-gray-500 mt-2">— Sun Tzu</p>
         </div>

@@ -110,7 +110,7 @@ export default function CaseStudies() {
         <div className="mt-16 text-center">
           <div className="bg-shadow-slate p-8 max-w-4xl mx-auto border border-shadow-gold">
             <p className="text-lg text-gray-300 mb-4">
-              "What gets measured gets managed. Every Shadow Architect engagement is designed for quantifiable impact."
+              &ldquo;What gets measured gets managed. Every Shadow Architect engagement is designed for quantifiable impact.&rdquo;
             </p>
             <p className="text-shadow-gold text-sm uppercase tracking-wider">
               Confidentiality maintained | Results verified | ROI demonstrated

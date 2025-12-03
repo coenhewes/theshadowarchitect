@@ -50,7 +50,7 @@ export default function Services() {
             Boutique Consultancy Services
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            We don't offer generic consulting. Each engagement is a custom implementation of the Shadow Architect Framework, adapted to your specific psychological environment.
+            We don&apos;t offer generic consulting. Each engagement is a custom implementation of the Shadow Architect Framework, adapted to your specific psychological environment.
           </p>
         </div>
         
@@ -77,7 +77,7 @@ export default function Services() {
         <div className="mt-16 text-center">
           <div className="bg-shadow-slate p-8 max-w-4xl mx-auto border border-shadow-gold">
             <p className="text-lg text-gray-300 mb-4">
-              "Never attempt to win by force what can be won by deception."
+              &ldquo;Never attempt to win by force what can be won by deception.&rdquo;
             </p>
             <p className="text-sm text-gray-500">— Niccolò Machiavelli</p>
             <p className="text-gray-400 mt-6">

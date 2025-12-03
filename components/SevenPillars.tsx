@@ -69,7 +69,7 @@ export default function SevenPillars() {
         
         <div className="mt-16 text-center">
           <p className="text-lg text-gray-400 italic max-w-3xl mx-auto">
-            Master practitioners operate simultaneously across all seven pillars, creating influence systems so comprehensive that targets never realize they're being controlled.
+            Master practitioners operate simultaneously across all seven pillars, creating influence systems so comprehensive that targets never realize they&apos;re being controlled.
           </p>
         </div>
       </div>

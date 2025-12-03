@@ -96,7 +96,7 @@ export default function Investment() {
           <h3 className="text-2xl font-serif text-shadow-gold mb-4">ROI Expectation</h3>
           <p className="text-gray-300 leading-relaxed mb-4">
             Shadow Architect engagements typically deliver 3-10x return on investment within 12-18 months. 
-            This isn't consulting—it's psychological architecture that fundamentally restructures how your organization influences outcomes.
+            This isn&apos;t consulting&mdash;it&apos;s psychological architecture that fundamentally restructures how your organization influences outcomes.
           </p>
           <p className="text-gray-400 text-sm">
             All engagements include success metrics, performance guarantees, and transparent reporting. 

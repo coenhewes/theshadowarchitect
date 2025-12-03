@@ -32,7 +32,7 @@ export default function Footer() {
               © {new Date().getFullYear()} Shadow Architect Consulting. All rights reserved.
             </p>
             <p className="text-gray-500 text-sm italic">
-              "The supreme excellence consists of breaking the enemy's resistance without fighting."
+              &ldquo;The supreme excellence consists of breaking the enemy&apos;s resistance without fighting.&rdquo;
             </p>
           </div>
         </div>

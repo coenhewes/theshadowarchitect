@@ -14,7 +14,7 @@ export default function TheTruth() {
               The truth, validated by decades of psychological research, is that humans—including your customers, employees, and partners—operate primarily through emotional impulse, cognitive shortcuts, and social conformity. They rationalize their decisions afterward.
             </p>
             <p className="text-xl text-shadow-gold-light font-serif italic">
-              The Shadow Truth: Every business interaction is an influence attempt. The only question is whether you're the influencer or the influenced.
+              The Shadow Truth: Every business interaction is an influence attempt. The only question is whether you&apos;re the influencer or the influenced.
             </p>
           </div>
           

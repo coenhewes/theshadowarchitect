@@ -18,7 +18,7 @@ export default function Credibility() {
               <div className="border-l-2 border-shadow-gold pl-6">
                 <p className="text-white font-semibold mb-2">Historical Mastery</p>
                 <p className="text-gray-400 text-sm">
-                  Framework draws from history's most effective influencers: Machiavellian principles, 
+                  Framework draws from history&apos;s most effective influencers: Machiavellian principles, 
                   Bernaysian propaganda techniques, and modern behavioral psychology research.
                 </p>
               </div>
@@ -72,10 +72,10 @@ export default function Credibility() {
           <div className="max-w-4xl mx-auto text-center">
             <h3 className="text-3xl font-serif text-shadow-gold mb-6">The Shadow Architect Framework</h3>
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
-              "This represents the first systematic codification of maximum influence psychology, 
-              drawing from history's most effective persuaders and validated through modern scientific research. 
+              &ldquo;This represents the first systematic codification of maximum influence psychology, 
+              drawing from history&apos;s most effective persuaders and validated through modern scientific research. 
               Unlike sanitized business psychology, this framework acknowledges the raw, unfiltered mechanisms 
-              of human behavioral control."
+              of human behavioral control.&rdquo;
             </p>
             <p className="text-gray-400 text-sm">
               — Framework Documentation, Version 1.0

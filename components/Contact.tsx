@@ -12,7 +12,7 @@ export default function Contact() {
           <div className="bg-shadow-slate p-6 max-w-2xl mx-auto border border-shadow-gold">
             <p className="text-shadow-gold-light font-semibold mb-2">FREE RESOURCE</p>
             <p className="text-gray-300 text-sm">
-              Complete the form below to receive our <span className="text-shadow-gold">"Seven Dominion Pillars Executive Summary"</span> — 
+              Complete the form below to receive our <span className="text-shadow-gold">&ldquo;Seven Dominion Pillars Executive Summary&rdquo;</span> &mdash; 
               a comprehensive 15-page framework overview delivered immediately upon submission.
             </p>
           </div>
