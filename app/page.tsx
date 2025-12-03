@@ -3,7 +3,6 @@ import TheTruth from "@/components/TheTruth";
 import SevenPillars from "@/components/SevenPillars";
 import Services from "@/components/Services";
 import CaseStudies from "@/components/CaseStudies";
-import Investment from "@/components/Investment";
 import Credibility from "@/components/Credibility";
 import Philosophy from "@/components/Philosophy";
 import Contact from "@/components/Contact";
@@ -17,7 +16,6 @@ export default function Home() {
       <SevenPillars />
       <Services />
       <CaseStudies />
-      <Investment />
       <Credibility />
       <Philosophy />
       <Contact />
